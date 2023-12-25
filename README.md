@@ -1,16 +1,42 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47ft376cwu08tgo9gusn4wad14f1k8asgpzo8zjbr4&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+<div id="badges">
+  <a href="https://t.me/wasdxy">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"/>
+  </a>
+</div>
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img src="https://komarev.com/ghpvc/?username=citylameR&style=flat-square&color=blue" alt=""/>
+</h1>
+</div>
 
-<!--
-**taxicab33/taxicab33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻About Me :
+- 🔭 I’m currently working as Middle Python Developer
+- 📫 How to reach me: nikonovpy@gmail.com
+- 😄 Pronouns: he/him
+---
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Java" alt="Java" width="40" height="40"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citylameR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=citylameR&theme=dark)](https://git.io/streak-stats)
+
+ 
