@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
+  <img src="https://giphy.com/gifs/coding-zOvBKUUEERdNm">
 <div id="badges">
   <a href="https://t.me/taxicab33">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"/>
