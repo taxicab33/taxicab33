@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/coding-zOvBKUUEERdNm">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 <div id="badges">
   <a href="https://t.me/taxicab33">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white"/>
