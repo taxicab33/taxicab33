@@ -14,7 +14,10 @@
 
 ### 👨‍💻About Me :
 - 🔭 I’m currently working as Middle Python Developer
-- 📫 How to reach me: nikonovpy@gmail.com
+- 📫 How to reach me: 
+      1. email: nikonovpy@gmail.com
+      2. telegram: https://t.me/taxicab33
+      3. Linkedin: https://www.linkedin.com/in/nikonov-py/
 - 😄 Pronouns: he/him
 ---
 
