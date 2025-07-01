@@ -13,10 +13,10 @@
 </div>
 
 ### 👨‍💻About Me :
-- 🔭 I’m currently working as Middle Python Developer
+- 🔭 I’m currently working as Senior Python Developer
 - 📫 How to reach me: 
       1. email: nikonovpy@gmail.com
-      2. telegram: https://t.me/taxicab33
+      2. telegram: https://t.me/nikonovy
       3. Linkedin: https://www.linkedin.com/in/nikonov-py/
 - 😄 Pronouns: he/him
 ---
